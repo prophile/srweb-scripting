@@ -73,7 +73,8 @@
 	<div class="content">
 
 		<div id="topBanner">
-			<img src="{$root_uri}images/content/srobo_website_robot.png" alt="Image of Robot" />
+			<!-- <img src="{$root_uri}images/content/srobo_website_robot.png" alt="Image of Robot" /> -->
+			<img src="{$root_uri}images/content/keyboardcat.jpg" alt="Keyboard Cat" style="margin-left:92px" />
 	
 			<h1>Welcome to Student Robotics</h1>
 	
